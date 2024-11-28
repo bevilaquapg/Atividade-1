@@ -1,1 +1,2 @@
-print ('hello world') 
+a, b = 5, 3
+print(f"Soma: {a + b}, Subtração: {a - b}, Multiplicação: {a * b}, Divisão: {a / b}")
